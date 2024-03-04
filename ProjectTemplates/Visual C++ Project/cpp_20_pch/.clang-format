@@ -1,7 +1,0 @@
-BasedOnStyle: Google
-
-IncludeCategories:
-  # Priority -1000: Precompiled headers to be placed at the top
-  # Necessary to compile properly
-  - Regex: '"pch.h"'
-    Priority: -1000
